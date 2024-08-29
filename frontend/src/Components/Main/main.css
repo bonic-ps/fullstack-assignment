@@ -1,0 +1,47 @@
+
+.main-search-container-section{
+    padding-top: 2rem;
+    height: 240px;
+    background-color: rgb(205, 209, 216);
+    text-align: center;
+}
+
+.main-search-container-section > .main-heading {
+    padding: 3rem 3rem 1rem 3rem;
+    font-size: xxx-large;
+    font-weight: 400;
+    font-family: sans-serif;
+}
+
+.search-btn{
+    padding: 0.88rem 0.8rem;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    border: none;
+    border-radius: 2px;
+    margin-right: 0.1rem;
+}
+
+.search-input{
+    padding: 0.88rem 1rem;
+    width: 40%;
+    border: 0.4px solid rgb(88, 88, 88);
+    border-radius: 3px 0 0 3px;
+    outline: none;
+    background-color: white;
+    
+}
+
+
+
+.helpcenter-container{
+    padding: 6rem 8rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    row-gap: 2rem;
+    column-gap: 2rem;
+    flex-wrap: wrap;
+}

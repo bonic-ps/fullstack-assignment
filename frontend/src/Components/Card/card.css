@@ -1,0 +1,19 @@
+.card-container{
+    width: 360px;
+    min-height: 150px;
+    border: 1px solid rgb(221 221 221);
+    background-color: rgb(236 242 249 / 84%);
+    border-radius: 8px;
+}
+
+.card-title{
+    padding: 0.6rem 1rem;
+    border-bottom: 1px solid lightgray;
+    font-size: large;
+    font-weight: 600;
+}
+
+.card-description{
+    padding: 0.6rem 1rem;
+    font-weight: 500;
+}
