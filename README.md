@@ -1,6 +1,8 @@
 # INSTRUCTIONS TO RUN THE PROJECT LOCALLY.
 ---
 ## **CLONE THE REPOSITORY**
+git clone https://github.com/bonic-ps/fullstack-assignment
+cd fullstack-assignment
 
 ## ** RUNNING THE SERVER**
 1. INSIDE THE BACKEND FOLDER RUN THE COMMAND  ` npm install `
